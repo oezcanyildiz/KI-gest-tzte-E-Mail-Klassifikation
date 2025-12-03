@@ -41,5 +41,21 @@ Für erste Funktionstests wurde ein kleines Test-Dataset mit
 ---
 
 ### **Tag 2**
-*(Fortschritt wird hier täglich ergänzt.)*
+
+- Änderungen im Code vorgenommen:
+  - 5.000 E-Mails aus dem Enron-Datensatz eingelesen und in neue CSV-Dateien exportiert.
+  - 5.000 E-Mails bereinigt und geparst.
+
+- **Ergebnis:**
+  Der Enron-Datensatz ist für die KI-Automatisierung ungeeignet. Er enthält viele spezifische Header und Sonderzeichen. Außerdem besteht er nicht nur aus geschäftlichen E-Mails, sondern auch aus privaten Nachrichten zwischen Mitarbeitenden.  
+  Daher haben wir uns entschieden, auf synthetisch erstellte E-Mails umzusteigen.
+
+- **Entscheidung:**
+  Ab sofort wird ausschließlich der Spam-Datensatz verwendet; Enron-Daten werden nicht weiter genutzt.  
+  Zusätzlich wurde im Ordner `data` eine lizenzfreie `spam.csv` eingefügt, die etwa 5.500 E-Mails enthält.
+
+### **Tag 3**
+
+
+
 
