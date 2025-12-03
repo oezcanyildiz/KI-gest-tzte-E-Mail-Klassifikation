@@ -49,6 +49,7 @@ Für erste Funktionstests wurde ein kleines Test-Dataset mit
 - **Ergebnis:**
   Der Enron-Datensatz ist für die KI-Automatisierung ungeeignet. Er enthält viele spezifische Header und Sonderzeichen. Außerdem besteht er nicht nur aus geschäftlichen E-Mails, sondern auch aus privaten Nachrichten zwischen Mitarbeitenden.  
   Daher haben wir uns entschieden, auf synthetisch erstellte E-Mails umzusteigen.
+  Code wurde trotzdem in Projekt drin gelassen, falls in Zukunft ähnliche Art von Code gebraucht wird.
 
 - **Entscheidung:**
   Ab sofort wird ausschließlich der Spam-Datensatz verwendet; Enron-Daten werden nicht weiter genutzt.  
