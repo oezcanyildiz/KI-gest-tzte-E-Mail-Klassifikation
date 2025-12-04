@@ -57,6 +57,15 @@ Für erste Funktionstests wurde ein kleines Test-Dataset mit
 
 ### **Tag 3**
 
+Einen neuen Projektordner erstellt und dieses Projekt wird ab jetzt dort weiterentwickelt.
+Link zu: https://github.com/oezcanyildiz/KI-E-Mail-Klassifikation-und-Spam-detector
+
+
+
+
+
+
+
 
 
 
